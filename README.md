@@ -1,6 +1,7 @@
 
-<h2 align="left">Привет 👋, меня зовут Виктория</h1>
-<p align="left"> <strong> Frontend-разработчик. Создаю быстрые и адаптивные веб-интерфейсы. В поиске новых возможностей.</strong></p>
+<h2 align="left">Привет 👋, меня зовут Виктория</h2>
+
+<p align="left"> <strong> Frontend-разработчик. Создаю быстрые и адаптивные веб-интерфейсы. Студент высшего учебного заведения ЧГУ им. Ульянова. В поиске новых возможностей.</strong></p>
 
 <br/>
     
@@ -37,3 +38,5 @@
 <p align="left" display="flex">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhigaloZXC&layout=compact)](https://github.com/zhigaloZXC/github-readme-stats)
